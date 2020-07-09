@@ -1,0 +1,15 @@
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\UT.deps.json
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\UT.dll
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\YCHEBA\Коноплев\UTest\UT\obj\Debug\netcoreapp3.1\UT.csprojAssemblyReference.cache
+E:\YCHEBA\Коноплев\UTest\UT\obj\Debug\netcoreapp3.1\UT.AssemblyInfoInputs.cache
+E:\YCHEBA\Коноплев\UTest\UT\obj\Debug\netcoreapp3.1\UT.AssemblyInfo.cs
+E:\YCHEBA\Коноплев\UTest\UT\obj\Debug\netcoreapp3.1\UT.csproj.CopyComplete
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\UT.runtimeconfig.json
+E:\YCHEBA\Коноплев\UTest\UT\bin\Debug\netcoreapp3.1\UT.runtimeconfig.dev.json
+E:\YCHEBA\Коноплев\UTest\UT\obj\Debug\netcoreapp3.1\UT.genruntimeconfig.cache
